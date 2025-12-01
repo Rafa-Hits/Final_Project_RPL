@@ -2,9 +2,12 @@
 ## Vibes Kost, Sistem Informasi Penyewaan Kost Berbasis Website
 
 ## Nama Kelompok & Anggota
-Kelompok 8: - Muhammad Faizal (701230055)
-            - Suci Ramadani (701230025)
-            - Rosita Br Bangun (701230082)
+-**Nama Kelompok :** Kelompok 8
+| Nama | NIM |
+|------|--------|
+| Muhammad Faizal | 701230055 |
+| Suci Ramadani | 701230025 |
+| Rosita Br Bangun | 701230082 |
 
 
 
